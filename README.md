@@ -8,7 +8,7 @@
 
 Immediately after graduation I started at Cisco and rapidly learned Microservices and Go; traveled the world attending conferences, advocating for developers and gave my first presentation in Japan. Since then, I’ve collaborated with a variety of team sizes writing well documented and tested REST APIs. Also, focused on small details at every level from handling scale to UX/UI, trained ability to break down vague deliverables to actionable tasks. Thoroughly enjoyed all things craft ranging from coffee, wood-shop, and more. Physical and mental fitness are deeply important to me; always practicing lifelong learning.
 
-Seeking new role that will challenge and expand my knowledge in full stack engineering, and further leadership and growth opportunities with a collaborative team.
+Seeking new role that will challenge and expand my knowledge in iOS engineering, and further leadership and growth opportunities with a collaborative team.
 
 ## Core Competencies
 
@@ -16,18 +16,23 @@ Seeking new role that will challenge and expand my knowledge in full stack engin
 - Thoroughness/Detail oriented
 - Public Speaking/Presenting
 - Impact/Influence
-- Professionalism
-- Initiative/Perseverance
+- Professionalism/Grit
+- Initiative/Intrinsic Motivation
 - Ability to Prioritize
 - Result Orientation
 - Continuous Learning
 
 ## Work Experience
 
-### **IQVia**, Senior Software Engineer, September 2017 – Present
+### **Alaska Airlines**, iOS Engineer, March 2019 – _Present_
+
+- Lead design and engineer efforts on implementing rebooking feature into Lobby app. Created Mocky, a macOS app to mock network responses, which lead to a faster development and shifted Alaska to maximize agile development.
+- Finished and delivered Boarding Agent app used by 3,000+ CSA (Customer Service Agent), that is boarding over a million passengers each month.
+
+### **IQVia**, Senior Software Engineer, September 2017 – March 2019
 
 - Jumped into major refactor of [Layer0](layer0.ims.io) to optimize performance and improve architecture for long-term stability. Removing 30% of the codebase as well as continued support of new AWS features.
-- Developed platform to easily transition new and the existing 1,000+ services to Kubernetes on EKS.
+- Developed platform to easily transition new and the existing 1,000+ services to **Kubernetes** on **EKS**.
 
 ### **Cisco**, Software Engineer II, December 2016 – September 2017
 
@@ -46,21 +51,21 @@ Seeking new role that will challenge and expand my knowledge in full stack engin
 
 ## Technical Competencies
 
-- Go: 3+ years in monitoring, logging and building PaaS and Microservices that scale.
 - Swift: 4+ years; Completed iOS and macOS apps from designs in Sketch to finished product in iOS App Store.
-- Kubernetes/Docker/AWS: 3+ years design in Microservices architecture; decoupling slow monolithic application.
+- Go: 4+ years in monitoring, logging and building PaaS and Microservices that scale.
+- Kubernetes/Docker/AWS: 4+ years design in Microservices architecture; decoupling slow monolithic application.
 
 ## Education
 
 **Bachelor of Science in Computer Science, Minor in Japanese** May 2015
-
 Washington State University, Pullman, WA
 
 ## Extracurricular
 
-- **2018** Open sourced Magic Mirror for macOS.
-- **2017** Volunteered at Bike Camp DSACT. Bar/Coffee Cart.
-- **2016** Speaker at LinuxCon + ContainerCon Japan 2016.
+- **2019** Completed [**STP (Seattle to Portland)**](https://en.wikipedia.org/wiki/Seattle_to_Portland_Bicycle_Classic) in 1 Day
+- **2018** Open sourced [**Magic Mirror**](https://github.com/nehayward/Magic-Mirror) for macOS.
+- **2017** Volunteered at Bike Camp DSACT. [**Bar/Coffee Cart**](https://imgur.com/a/UFseoMs).
+- **2016** Speaker at [**LinuxCon + ContainerCon Japan 2016**](https://lcccjapan2016.sched.com/event/7Eem/tutorial-setting-up-your-first-microservice-application-on-shipped-nick-hayward-cisco).
 - **2015** Founded Teku Industries.
 - **2014** Lieutenant Commander at Sigma Nu.
 - **2013** Studied abroad in Tokyo, Japan.
