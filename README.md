@@ -26,8 +26,9 @@ Seeking new role that will challenge and expand my knowledge in iOS engineering,
 
 ### **Alaska Airlines**, iOS Engineer, March 2019 – _Present_
 
+- Lead AirTalk framework development; a company wide initiative for communication for all flight operations.
 - Lead design and engineer efforts on implementing rebooking feature into Lobby app. Created Mocky, a macOS app to mock network responses, which lead to a faster development and shifted Alaska to maximize agile development.
-- Finished and delivered Boarding Agent app used by 3,000+ CSA (Customer Service Agent), that is boarding over a million passengers each month.
+- Finished and delivered Boarding Agent app used by 3,000+ CSA (Customer Service Agent), that is boarding over 2 million passengers each month.
 
 ### **IQVia**, Senior Software Engineer, September 2017 – March 2019
 
